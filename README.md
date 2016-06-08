@@ -3,7 +3,7 @@
 Proyecto Integrado para final de curso de 2ºFPGS DAW. 
 
 Descripción: 
-Se trata de una aplicación web para investigadores de la Facultad de Ciencias de la Comunicación de la Universidad de Málaga. En ella, los investigadores podrán almacenar en registros de los datos de los artículos que analicen: el nombre de la cabecera, el título, el subtítulo, la fecha, los idiomas en los que está escrito, el autor, la sección, las fuentes, las temáticas que aparecen en el artículo, los protagonismos informativos con los que cuenta, si incluye foto o no y, en caso positivo, cuál es el protagonista informativo de dicha imagen. 
+Se trata de una aplicación web para investigadores de la Facultad de Ciencias de la Comunicación de la Universidad de Málaga. En ella, los investigadores podrán almacenar en registros los datos de los artículos que analicen: el nombre de la cabecera, el título, el subtítulo, la fecha, los idiomas en los que está escrito, el autor, la sección, las fuentes, las temáticas que aparecen en el artículo, los protagonismos informativos con los que cuenta, si incluye foto o no y, en caso positivo, cuál es el protagonista informativo de dicha imagen. 
 Se podrán realizar búsquedas filtradas sobre esa información sobre la base de datos: por palabra clave, fecha, idioma, autor... 
 Además, esa información se puede visualizar en forma de gráficos lineales, de barras, radar, por sectores, entre otros; eligiendo el dato por el que se desee filtrar. 
 
