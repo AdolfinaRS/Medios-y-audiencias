@@ -11,7 +11,7 @@ Además, esa información se puede visualizar en forma de gráficos lineales, de
 
  
 
-*La aplicación funciona en internet en el siguiente enlace: *
+*La aplicación funciona en internet en el siguiente enlace: **
 
 mediosyaudiencias.esy.es
 
