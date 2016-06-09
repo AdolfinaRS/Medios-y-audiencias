@@ -12,6 +12,7 @@ Además, esa información se puede visualizar en forma de gráficos lineales, de
 
 
 La aplicación funciona en internet en el siguiente enlace: 
+mediosyaudiencias.esy.es
 
 
 No se permite el registro anónimo de usuarios, ya que los directores de la investigación quieren permitir el acceso únicamente a los propios miembros de la misma. 
