@@ -9,9 +9,10 @@ Por otra parte,e podrán realizar búsquedas filtradas de esa información sobre
 
 Además, esa información se puede visualizar en forma de gráficos lineales, de barras, radar, por sectores, entre otros; eligiendo el dato por el que se desee filtrar para la visulización. 
 
+ 
 
+**La aplicación funciona en internet en el siguiente enlace: **
 
-La aplicación funciona en internet en el siguiente enlace: 
 mediosyaudiencias.esy.es
 
 
